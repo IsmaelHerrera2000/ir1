@@ -65,231 +65,6 @@
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>SEC-0007</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0008] Introducción al dominio del problema)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0011</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0010</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0011] Pros y contras de la situación actual)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>PRG-0003</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0007</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0009] Glosario de términos del dominio del problema)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0012</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0011</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0012] Fortalezas de la situación actual)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº3 ([SEC-0006] Objetivos del proyecto)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0014</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0003</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0004] Organizaciones participantes)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0010</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0014] Modelos de procesos de negocio actuales)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0006</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0009</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0003</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0005] Personas participantes)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0015</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0002</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0004</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0010</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0014</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0015] Descripción de actores de negocio actuales)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0013</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0016</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0011</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0013] Debilidades de la situación actual)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>PRG-0002</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Name] actualizada [Lista de control de cambios] -> [[Lista de control de cambios]]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0008</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
 <rem:owner>SEC-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
@@ -307,6 +82,69 @@
 <rem:description><![CDATA[Añadido hijo nº2 ([SEC-0003] Participantes del proyecto)]]></rem:description>
 </rem:change>
 <rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº3 ([SEC-0006] Objetivos del proyecto)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0009</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0010</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0011</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0012</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0004</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
 <rem:type>C</rem:type>
 <rem:owner>SEC-0005</rem:owner><rem:date>
 <rem:year>2022</rem:year>
@@ -317,12 +155,138 @@
 </rem:change>
 <rem:change>
 <rem:type>C</rem:type>
-<rem:owner>PRG-0002</rem:owner><rem:date>
+<rem:owner>SEC-0006</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
 <rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0007</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0009] Glosario de términos del dominio del problema)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0002</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>PRG-0003</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0011</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0012] Fortalezas de la situación actual)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0013</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0008</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0003</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0005] Personas participantes)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0007</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0008] Introducción al dominio del problema)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0011</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0013] Debilidades de la situación actual)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0014</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0010</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0014] Modelos de procesos de negocio actuales)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0015</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0010</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0011] Pros y contras de la situación actual)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0014</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0015] Descripción de actores de negocio actuales)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>C</rem:type>
@@ -335,6 +299,24 @@
 </rem:change>
 <rem:change>
 <rem:type>C</rem:type>
+<rem:owner>SEC-0016</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0002</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Lista de control de cambios] -> [[Lista de control de cambios]]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
 <rem:owner>SEC-0003</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
@@ -344,299 +326,16 @@
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>STK-0001</rem:owner><rem:date>
+<rem:owner>SEC-0003</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Name] actualizada [Pablo Cuenca Pérez] -> [Cuenca Pérez, Pablo ]]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0004] Organizaciones participantes)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>C</rem:type>
-<rem:owner>STK-0002</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>STK-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>ORG-0002</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Address] actualizada [PD] -> [Universidad de Sevilla]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadida organización desarrolladora [ORG-0002] IR-G3-4]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>STK-0003</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Name] actualizada [Santiago Rosado Raya] -> [Rosado Raya, Santiago]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>ORG-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Comments] actualizada [5as es una empresa dedicada a administrar negocios y fincas. 
-Gestiona principalmente temas fiscales y fincas.
-Sus principales clientes son autónomos y micro PYMEs. 
-] -> [5as es una empresa dedicada a administrar negocios y fincas. 
-]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>ORG-0002</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [Grupo de trabajo encargado de realizar un sistema de información.]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº3 ([STK-0003] Santiago Rosado Raya)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0023</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([ACT-0001] Ejemplo de actor)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>ORG-0002</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Address] actualizada [Universidad de Sevilla] -> [E.T.S.I.I., Universidad de Sevilla]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>STK-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Role] actualizada [PD] -> [Estudiante]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>STK-0002</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Name] actualizada [Ismael Herrera Ramírez] -> [Herrera Ramírez, Ismael]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([STK-0002] Ismael Herrera Ramírez)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>STK-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [MET-0001]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>MET-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0025</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([MET-0001] Primera entrevista)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>STK-0004</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº4 ([STK-0004] Cuenca Moreno, Fernando José)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>ORG-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Address] actualizada [PD] -> [Grupo San Matías, 5, LOCAL-16, Sevilla]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([STK-0001] Pablo Cuenca Pérez)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0004</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([ORG-0002] IR-G3-4)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>STK-0003</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº5 ([STK-0005] Pérez López, Silvia)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>ORG-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [5as es una empresa dedicada a administrar negocios y fincas. 
-Gestiona principalmente temas fiscales y fincas.
-Sus principales clientes serían autónomos y micro PYMEs. 
-]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>ORG-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Comments] actualizada [5as es una empresa dedicada a administrar negocios y fincas. 
-Gestiona principalmente temas fiscales y fincas.
-Sus principales clientes serían autónomos y micro PYMEs. 
-] -> [5as es una empresa dedicada a administrar negocios y fincas. 
-Gestiona principalmente temas fiscales y fincas.
-Sus principales clientes son autónomos y micro PYMEs. 
-]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0006</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([OBJ-0001] Ejemplo de objetivo)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>ORG-0002</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Address] actualizada [E.T.S.I.I., Universidad de Sevilla] -> [Escuela Técnica Superior de Ingeniería Informática, Universidad de Sevilla]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>STK-0002</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Role] actualizada [PD] -> [Estudiante]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>ACT-0001</rem:owner><rem:date>
+<rem:owner>PRG-0002</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
@@ -654,156 +353,12 @@ Sus principales clientes son autónomos y micro PYMEs.
 </rem:change>
 <rem:change>
 <rem:type>C</rem:type>
-<rem:owner>SEC-0018</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0020</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0021] Objetivos de negocio)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0023</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0017</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0018] Descripción del entorno de hardware actual)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0017</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0017</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0019] Descripción del entorno software actual)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0022</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0023] Descripción de actores de negocio a implantar)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0025</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([STK-0001] Ismael Herrera Ramírez)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
 <rem:owner>SEC-0021</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
 <rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0027</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0026</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [STK-0001] Ismael Herrera Ramírez con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>ORG-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0022</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0004</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([ORG-0001] 5as)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0020</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0022] Modelos de procesos de negocio a implantar)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>C</rem:type>
@@ -824,35 +379,62 @@ Sus principales clientes son autónomos y micro PYMEs.
 <rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>U</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0027</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [Ninguno]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [STK-0001] Ismael Herrera Ramírez con 0 hijos y 3 cambios]]></rem:description>
+<rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:owner>SEC-0014</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadida organización cliente [ORG-0001] 5as]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0016] Descripción de procesos de negocio actuales)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0022</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0023] Descripción de actores de negocio a implantar)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0017</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0018] Descripción del entorno de hardware actual)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>C</rem:type>
 <rem:owner>SEC-0019</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0025</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0018</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
@@ -870,12 +452,12 @@ Sus principales clientes son autónomos y micro PYMEs.
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>SEC-0014</rem:owner><rem:date>
+<rem:owner>SEC-0005</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0016] Descripción de procesos de negocio actuales)]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº1 ([STK-0001] Ismael Herrera Ramírez)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -884,7 +466,106 @@ Sus principales clientes son autónomos y micro PYMEs.
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([STK-0001] Ismael Herrera Ramírez)]]></rem:description>
+<rem:description><![CDATA[Eliminado hijo nº1 ([STK-0001] Ismael Herrera Ramírez)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [Ninguno]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0020</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0021] Objetivos de negocio)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0020</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0022] Modelos de procesos de negocio a implantar)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0026</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [STK-0001] Ismael Herrera Ramírez con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [STK-0001] Ismael Herrera Ramírez con 0 hijos y 3 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>ORG-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [STK-0002]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadida organización cliente [ORG-0001] 5as]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0004</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([ORG-0001] 5as)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0023</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>D</rem:type>
@@ -905,13 +586,22 @@ Sus principales clientes son autónomos y micro PYMEs.
 <rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0004</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado el objeto [STK-0002]  con 0 hijos y 1 cambios]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº2 ([ORG-0002] IR-G3-4)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0022</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -924,21 +614,385 @@ Sus principales clientes son autónomos y micro PYMEs.
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
+<rem:owner>SEC-0017</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0019] Descripción del entorno software actual)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0017</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [MET-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0005</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº4 ([STK-0004] Cuenca Moreno, Fernando José)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0006</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([OBJ-0001] Ejemplo de objetivo)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>ORG-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Address] actualizada [PD] -> [Grupo San Matías, 5, LOCAL-16, Sevilla]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>ORG-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Comments] actualizada [5as es una empresa dedicada a administrar negocios y fincas. 
+Gestiona principalmente temas fiscales y fincas.
+Sus principales clientes son autónomos y micro PYMEs. 
+] -> [5as es una empresa dedicada a administrar negocios y fincas. 
+]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>ORG-0002</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Address] actualizada [PD] -> [Universidad de Sevilla]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>STK-0002</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Ismael Herrera Ramírez] -> [Herrera Ramírez, Ismael]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>STK-0002</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>STK-0005</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
 <rem:owner>MET-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Place] actualizada [Entrevista digital - Discords] -> [Entrevista digital - Discord]]]></rem:description>
+<rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0027</rem:owner><rem:date>
+<rem:type>C</rem:type>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº3 ([SEC-0006] Objetivos del proyecto)]]></rem:description>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0005</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([STK-0001] Pablo Cuenca Pérez)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>STK-0003</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Santiago Rosado Raya] -> [Rosado Raya, Santiago]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0005</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº3 ([STK-0003] Santiago Rosado Raya)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>ORG-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Comments] actualizada [5as es una empresa dedicada a administrar negocios y fincas. 
+Gestiona principalmente temas fiscales y fincas.
+Sus principales clientes serían autónomos y micro PYMEs. 
+] -> [5as es una empresa dedicada a administrar negocios y fincas. 
+Gestiona principalmente temas fiscales y fincas.
+Sus principales clientes son autónomos y micro PYMEs. 
+]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>ORG-0002</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [Grupo de trabajo encargado de realizar un sistema de información.]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0023</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([ACT-0001] Ejemplo de actor)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0025</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([MET-0001] Primera entrevista)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>ORG-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [5as es una empresa dedicada a administrar negocios y fincas. 
+Gestiona principalmente temas fiscales y fincas.
+Sus principales clientes serían autónomos y micro PYMEs. 
+]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>ORG-0002</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Address] actualizada [Universidad de Sevilla] -> [E.T.S.I.I., Universidad de Sevilla]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>ORG-0002</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Address] actualizada [E.T.S.I.I., Universidad de Sevilla] -> [Escuela Técnica Superior de Ingeniería Informática, Universidad de Sevilla]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0005</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([STK-0002] Ismael Herrera Ramírez)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>STK-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Role] actualizada [PD] -> [Estudiante]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>STK-0002</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Role] actualizada [PD] -> [Estudiante]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadida organización desarrolladora [ORG-0002] IR-G3-4]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>ACT-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>STK-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>STK-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Pablo Cuenca Pérez] -> [Cuenca Pérez, Pablo ]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>STK-0004</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0005</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº5 ([STK-0005] Pérez López, Silvia)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>STK-0003</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº5 ([GRF-0001] Logo de 5as)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº1 ([SEC-0003] Participantes en el proyecto)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>GRF-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0026</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([GRF-0001] Logo 5as)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>PRG-0004</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº1 ([SEC-0002] Alcance del proyecto)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>STK-0003</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Role] actualizada [PD] -> [Estudiante]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº4 ([GRF-0001] Logo 5as)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -947,70 +1001,25 @@ Sus principales clientes son autónomos y micro PYMEs.
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([GRF-0001] Logo de 5as)]]></rem:description>
+<rem:description><![CDATA[Eliminado hijo nº1 ([GRF-0001] Logo de 5as)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>PRG-0004</rem:owner><rem:date>
+<rem:owner>SEC-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Text] actualizada [] -> [5as es una empresa dedicada a administrar negocios y fincas.
-Gestiona principalmente temas fiscales y fincas.
-Sus principales clientes serían autónomos y micro PYMEs.
-
-Se pretende diseñar un nuevo sistema de información que cumpla los siguientes puntos:
--Software capaz de gestionar fincas, herencias y divorcios.
--Control de la contabilidad.
--Control de incidencias.
--Sistema de notificaciones.]]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº5 ([SEC-0003] Participantes en el proyecto)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>MET-0001</rem:owner><rem:date>
+<rem:owner>SEC-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Comments] actualizada [PD] -> [Entrevista muy útil para conocer el dominio del problema.
-]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>STK-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [IsUser] actualizada [false] -> [true]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>STK-0004</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [IsCustomer] actualizada [true] -> [false]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>STK-0004</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [IsUser] actualizada [false] -> [true]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Name] actualizada [Ejemplo de objetivo] -> [Gestión de fincas, herencias y divorcios]]]></rem:description>
+<rem:description><![CDATA[Eliminado hijo nº1 ([SEC-0006] Objetivos del proyecto)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1019,7 +1028,7 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([SEC-0002] Alcance del proyecto)]]></rem:description>
+<rem:description><![CDATA[Eliminado hijo nº1 ([GRF-0001] Logo de 5as)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1029,6 +1038,195 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:day>9</rem:day>
 </rem:date>
 <rem:description><![CDATA[Añadido hijo nº5 ([SEC-0006] Objetivos del proyecto)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº2 ([SEC-0002] Alcance del proyecto)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº1 ([GRF-0001] Logo de 5as)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0027</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0002] Alcance del proyecto)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminada traza hacia [GRF-0001] Logo 5as]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadida traza hacia [GRF-0001] Logo 5as]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0026</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº1 ([GRF-0001] Logo 5as)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [GRF-0001] Logo 5as con 0 hijos y 2 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº4 ([PRG-0004] Introducción)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº5 ([SEC-0002] Alcance del proyecto)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº5 ([GRF-0001] Logo de 5as)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº2 ([SEC-0003] Participantes en el proyecto)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0004</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido autor [STK-0002] Herrera Ramírez, Ismael]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0002</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([PRG-0004] )]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0027</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([GRF-0001] Logo de 5as)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0002</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([GRF-0001] Logo de 5as)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº4 ([GRF-0001] Logo 5as)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº4 ([PRG-0004] Introducción)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0002</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº2 ([PRG-0004] Introducción)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº5 ([PRG-0004] Introducción)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº4 ([SEC-0003] Participantes en el proyecto)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0002</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([GRF-0001] Logo de 5as)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1056,39 +1254,12 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>SEC-0027</rem:owner><rem:date>
+<rem:owner>STK-0005</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0003] Participantes en el proyecto)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº2 ([SEC-0003] Participantes en el proyecto)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>MET-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [PD]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Description] actualizada [PD] -> [ser capaz de gestionar todas las tareas relacionadas con fincas, herencias y divorcios. Contará con una interfaz de usuario lo más fácil de usar posible.]]]></rem:description>
+<rem:description><![CDATA[Propiedad [IsCustomer] actualizada [true] -> [false]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1097,7 +1268,16 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [IsCustomer] actualizada [true] -> [false]]]></rem:description>
+<rem:description><![CDATA[Propiedad [IsUser] actualizada [false] -> [true]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0027</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0003] Participantes en el proyecto)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1110,21 +1290,12 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:owner>GRF-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([PRG-0004] Introducción)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>MET-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Results] actualizada [Como resultado de esta primera entrevista...] -> [Como resultado de esta primera entrevista, hemos establecido el primer contacto con la empresas y sus trabajadores, nos han hablado de su forma de trabajar, los problemas actuales que tienen y de implementaciones que ayudarían a realizar el trabajo de una forma más cómoda.]]]></rem:description>
+<rem:description><![CDATA[Añadido autor [STK-0002] Herrera Ramírez, Ismael]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1133,34 +1304,7 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº4 ([SEC-0003] Participantes en el proyecto)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>MET-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Time] actualizada [10:04] -> [10:00]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([GRF-0001] Logo de 5as)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0027</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([SEC-0006] Objetivos del proyecto)]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº5 ([SEC-0006] Objetivos del proyecto)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1188,57 +1332,12 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Importance] actualizada [PD] -> [vital]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
 <rem:owner>MET-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
 <rem:description><![CDATA[Añadido autor [STK-0002] Herrera Ramírez, Ismael]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº3 ([SEC-0002] Alcance del proyecto)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0002</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0004] Introducción)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>GRF-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido autor [STK-0002] Herrera Ramírez, Ismael]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº2 ([SEC-0006] Objetivos del proyecto)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1251,133 +1350,35 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>SEC-0002</rem:owner><rem:date>
+<rem:owner>MET-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([GRF-0001] Logo de 5as)]]></rem:description>
+<rem:description><![CDATA[Propiedad [Place] actualizada [Entrevista digital - Discords] -> [Entrevista digital - Discord]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:owner>MET-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([SEC-0003] Participantes en el proyecto)]]></rem:description>
+<rem:description><![CDATA[Propiedad [Comments] actualizada [PD] -> [Entrevista muy útil para conocer el dominio del problema.
+]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>PRG-0001</rem:owner><rem:date>
+<rem:owner>STK-0004</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadida traza hacia [GRF-0001] Logo 5as]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº4 ([GRF-0001] Logo 5as)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº5 ([GRF-0001] Logo de 5as)]]></rem:description>
+<rem:description><![CDATA[Propiedad [IsUser] actualizada [false] -> [true]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
 <rem:owner>SEC-0027</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([GRF-0001] Logo de 5as)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [GRF-0001] Logo 5as con 0 hijos y 2 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0027</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0002] Alcance del proyecto)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº4 ([GRF-0001] Logo 5as)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0002</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([GRF-0001] Logo de 5as)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº5 ([PRG-0004] Introducción)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>PRG-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminada traza hacia [GRF-0001] Logo 5as]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>PRG-0004</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº4 ([PRG-0004] Introducción)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
@@ -1391,7 +1392,61 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº4 ([PRG-0004] Introducción)]]></rem:description>
+<rem:description><![CDATA[Eliminado hijo nº1 ([PRG-0004] Introducción)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0027</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº3 ([SEC-0006] Objetivos del proyecto)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>MET-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Time] actualizada [10:04] -> [10:00]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>MET-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Results] actualizada [Como resultado de esta primera entrevista...] -> [Como resultado de esta primera entrevista, hemos establecido el primer contacto con la empresas y sus trabajadores, nos han hablado de su forma de trabajar, los problemas actuales que tienen y de implementaciones que ayudarían a realizar el trabajo de una forma más cómoda.]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>MET-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [PD]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>STK-0004</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [IsCustomer] actualizada [true] -> [false]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Importance] actualizada [PD] -> [vital]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1400,11 +1455,55 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº5 ([SEC-0002] Alcance del proyecto)]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº3 ([SEC-0002] Alcance del proyecto)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0004</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Text] actualizada [] -> [5as es una empresa dedicada a administrar negocios y fincas.
+Gestiona principalmente temas fiscales y fincas.
+Sus principales clientes serían autónomos y micro PYMEs.
+
+Se pretende diseñar un nuevo sistema de información que cumpla los siguientes puntos:
+-Software capaz de gestionar fincas, herencias y divorcios.
+-Control de la contabilidad.
+-Control de incidencias.
+-Sistema de notificaciones.]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Description] actualizada [PD] -> [ser capaz de gestionar todas las tareas relacionadas con fincas, herencias y divorcios. Contará con una interfaz de usuario lo más fácil de usar posible.]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
 <rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº2 ([SEC-0006] Objetivos del proyecto)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Ejemplo de objetivo] -> [Gestión de fincas, herencias y divorcios]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0027</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
@@ -1413,12 +1512,12 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:owner>SEC-0002</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº5 ([SEC-0006] Objetivos del proyecto)]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0004] Introducción)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1428,222 +1527,6 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:day>9</rem:day>
 </rem:date>
 <rem:description><![CDATA[Eliminado hijo nº1 ([GRF-0001] Logo de 5as)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0027</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([GRF-0001] Logo de 5as)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº5 ([GRF-0001] Logo de 5as)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>PRG-0004</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido autor [STK-0002] Herrera Ramírez, Ismael]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0026</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([GRF-0001] Logo 5as)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0002</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([PRG-0004] )]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº2 ([SEC-0002] Alcance del proyecto)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>STK-0003</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Role] actualizada [PD] -> [Estudiante]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0002</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº2 ([PRG-0004] Introducción)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº5 ([SEC-0003] Participantes en el proyecto)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>GRF-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0026</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([GRF-0001] Logo 5as)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº4 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([OBJ-0008] Sistema de notificaciones)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [OBJ-0004] Sistema de notificaciones con 0 hijos y 3 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([OBJ-0007] Control de incidencias)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº4 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0007</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº3 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0007</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº6 ([OBJ-0008] Sistema de notificaciones)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0007</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº4 ([OBJ-0006] Control de la contabilidad)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [OBJ-0003] Control de incidencias con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0007</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Description] actualizada [PD] -> [permitir gestionar las incidencias de las fincas]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0007</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº3 ([OBJ-0007] Control de incidencias)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0006</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº2 ([OBJ-0003] Control de incidencias)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1661,11 +1544,20 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([OBJ-0006] Control de la contabilidad)]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº4 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>OBJ-0006</rem:owner><rem:date>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº3 ([OBJ-0007] Control de incidencias)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0007</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
@@ -1688,7 +1580,7 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado hijo nº3 ([OBJ-0006] Control de la contabilidad)]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº4 ([OBJ-0006] Control de la contabilidad)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1697,7 +1589,16 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº3 ([OBJ-0007] Control de incidencias)]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº4 ([OBJ-0008] Sistema de notificaciones)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0007</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº6 ([OBJ-0008] Sistema de notificaciones)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1715,7 +1616,52 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
+<rem:description><![CDATA[Eliminado hijo nº3 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0007</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº3 ([OBJ-0006] Control de la contabilidad)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº4 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0007</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
 <rem:description><![CDATA[Añadido hijo nº5 ([OBJ-0007] Control de incidencias)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0007</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº3 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1725,6 +1671,60 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:day>9</rem:day>
 </rem:date>
 <rem:description><![CDATA[Añadido hijo nº2 ([OBJ-0006] Control de la contabilidad)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>OBJ-0007</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº1 ([OBJ-0007] Control de incidencias)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0007</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº3 ([OBJ-0007] Control de incidencias)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>OBJ-0008</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº1 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº1 ([OBJ-0008] Sistema de notificaciones)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1751,38 +1751,11 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado hijo nº2 ([OBJ-0004] Sistema de notificaciones)]]></rem:description>
+<rem:description><![CDATA[Eliminado hijo nº2 ([OBJ-0003] Control de incidencias)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº4 ([OBJ-0008] Sistema de notificaciones)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>OBJ-0007</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0007</rem:owner><rem:date>
+<rem:owner>OBJ-0006</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
@@ -1790,13 +1763,49 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:description><![CDATA[Propiedad [Importance] actualizada [PD] -> [importante]]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>C</rem:type>
-<rem:owner>OBJ-0008</rem:owner><rem:date>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
+<rem:description><![CDATA[Eliminado hijo nº1 ([OBJ-0006] Control de la contabilidad)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0007</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Description] actualizada [PD] -> [permitir gestionar las incidencias de las fincas]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [OBJ-0004] Sistema de notificaciones con 0 hijos y 3 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0006</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº2 ([OBJ-0004] Sistema de notificaciones)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [OBJ-0003] Control de incidencias con 0 hijos y 1 cambios]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1808,24 +1817,6 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:description><![CDATA[Añadido hijo nº3 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0007</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº3 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0006</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº3 ([OBJ-0003] Control de incidencias)]]></rem:description>
-</rem:change>
-<rem:change>
 <rem:type>C</rem:type>
 <rem:owner>GRF-0002</rem:owner><rem:date>
 <rem:year>2022</rem:year>
@@ -1835,107 +1826,17 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>C</rem:type>
-<rem:owner>PRG-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [OBJ-0003]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0006</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido autor [STK-0002] Herrera Ramírez, Ismael]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Description] actualizada [ser capaz de gestionar todas las tareas relacionadas con fincas, herencias y divorcios. Contará con una interfaz de usuario lo más fácil de usar posible.] -> [ser capaz de gestionar todas las tareas relacionadas con fincas, herencias y divorcios. Contará con una interfaz de usuario lo más fácil de usar posible]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0018</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0005] Descripción del entorno de hardware actual)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Name] actualizada [f] -> [Gestión de fincas, herencias y divorcios]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Description] actualizada [PD] -> [ser capaz de gestionar todas las tareas relacionadas con fincas, herencias y divorcios. Contará con una interfaz de usuario lo más fácil de usar posible]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([OBJ-0006] Control de la contabilidad)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>OBJ-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0006</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº2 ([OBJ-0002] Control de la contabilidad)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [OBJ-0002]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
 <rem:type>U</rem:type>
 <rem:owner>STK-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Role] actualizada [Estudiante] -> [Ingeniero de requisitos]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>STK-0003</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
@@ -1952,31 +1853,13 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:description><![CDATA[Añadido hijo nº2 ([GRF-0002] Oficina de 5as)]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0006</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([OBJ-0002] Control de la contabilidad)]]></rem:description>
-</rem:change>
-<rem:change>
 <rem:type>D</rem:type>
 <rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado el objeto [OBJ-0003]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0006</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Description] actualizada [PD] -> [facilitar los datos sobre la contabilidad así como realizar un balance contable]]]></rem:description>
+<rem:description><![CDATA[Eliminado el objeto [OBJ-0004]  con 0 hijos y 1 cambios]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -1985,17 +1868,16 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Description] actualizada [actualizar la forma de trabajo de la empresa 5as, así como automatizar y facilitar sus tareas
-] -> [actualizar la forma de trabajo de la empresa 5as, así como automatizar y facilitar sus tareas]]]></rem:description>
+<rem:description><![CDATA[Añadido autor [STK-0002] Herrera Ramírez, Ismael]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
+<rem:owner>SEC-0018</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Name] actualizada [Gestión de fincas, herencias y divorcios] -> [Proyecto 5as]]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0005] Descripción del entorno de hardware actual)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -2013,7 +1895,25 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
+<rem:description><![CDATA[Propiedad [Description] actualizada [PD] -> [ser capaz de gestionar todas las tareas relacionadas con fincas, herencias y divorcios. Contará con una interfaz de usuario lo más fácil de usar posible]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0005</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
 <rem:description><![CDATA[Propiedad [Importance] actualizada [PD] -> [vital]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0006</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Description] actualizada [PD] -> [facilitar los datos sobre la contabilidad así como realizar un balance contable]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>D</rem:type>
@@ -2023,16 +1923,6 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:day>9</rem:day>
 </rem:date>
 <rem:description><![CDATA[Eliminado el objeto [OBJ-0002] Control de la contabilidad con 0 hijos y 2 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Description] actualizada [ser capaz de gestionar todas las tareas relacionadas con fincas, herencias y divorcios. Contará con una interfaz de usuario lo más fácil de usar posible] -> [actualizar la forma de trabajo de la empresa 5as, así como automatizar y facilitar sus tareas
-]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>D</rem:type>
@@ -2045,12 +1935,12 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>STK-0003</rem:owner><rem:date>
+<rem:owner>SEC-0006</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Role] actualizada [Estudiante] -> [Ingeniero de requisitos]]]></rem:description>
+<rem:description><![CDATA[Eliminado hijo nº2 ([OBJ-0002] Control de la contabilidad)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -2068,16 +1958,81 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido autor [STK-0002] Herrera Ramírez, Ismael]]></rem:description>
+<rem:description><![CDATA[Propiedad [Description] actualizada [ser capaz de gestionar todas las tareas relacionadas con fincas, herencias y divorcios. Contará con una interfaz de usuario lo más fácil de usar posible] -> [actualizar la forma de trabajo de la empresa 5as, así como automatizar y facilitar sus tareas
+]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>STK-0002</rem:owner><rem:date>
+<rem:owner>SEC-0006</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Role] actualizada [Estudiante] -> [Ingeniero de requisitos]]]></rem:description>
+<rem:description><![CDATA[Añadido autor [STK-0002] Herrera Ramírez, Ismael]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [OBJ-0003]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0006</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([OBJ-0002] Control de la contabilidad)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>PRG-0005</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0005</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [f] -> [Gestión de fincas, herencias y divorcios]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Description] actualizada [actualizar la forma de trabajo de la empresa 5as, así como automatizar y facilitar sus tareas
+] -> [actualizar la forma de trabajo de la empresa 5as, así como automatizar y facilitar sus tareas]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0006</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº3 ([OBJ-0003] Control de incidencias)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>OBJ-0005</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>C</rem:type>
@@ -2095,149 +2050,331 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado el objeto [OBJ-0004]  con 0 hijos y 1 cambios]]></rem:description>
+<rem:description><![CDATA[Eliminado el objeto [OBJ-0002]  con 0 hijos y 1 cambios]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>STK-0001</rem:owner><rem:date>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
-<rem:day>10</rem:day>
+<rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [Contacto con 5as y experto (en todo)]]]></rem:description>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Gestión de fincas, herencias y divorcios] -> [Proyecto 5as]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([OBJ-0006] Control de la contabilidad)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>STK-0002</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Role] actualizada [Estudiante] -> [Ingeniero de requisitos]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Description] actualizada [ser capaz de gestionar todas las tareas relacionadas con fincas, herencias y divorcios. Contará con una interfaz de usuario lo más fácil de usar posible.] -> [ser capaz de gestionar todas las tareas relacionadas con fincas, herencias y divorcios. Contará con una interfaz de usuario lo más fácil de usar posible]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [OBJ-0003]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0005</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Text] actualizada [Actualmente las oficinas cuentan con equipos informáticos ya que usaban Excel. Como se puede observar, también se usa mucho los documentos físicos.] -> [Actualmente, las oficinas estan dotadas con equipos informáticos. Como se puede observar, también se usa mucho los documentos físicos.]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0019</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº1 ([SEC-0027] Glosario de acrónimos y abreviaturas)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>PRG-0009</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>PRG-0011</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0015</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº1 ([PRG-0011] Descripción de actores de negocio actuales)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0006</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Descripción del entorno software actual] -> [Descripción del entorno de software actual]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0011</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Descripción de actores de negocio actuales] -> [Descripción de procesos de negocio actuales]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0005</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Text] actualizada [] -> [Actualmente las oficinas cuentan con equipos informáticos ya que usaban Excel. Como se puede observar, también se usa mucho los documentos físicos.]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0008</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0007] Introducción al dominio del problema)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
 <rem:owner>PRG-0008</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Text] actualizada [-Contabilidad: Sistema de control y registro de los gastos e ingresos y demás operaciones económicas que realiza la empresa.
-
--Balance:Diferencia entre los ingresos y gastos que refleja el resultado de una actividad económica.] -> [-Contabilidad: Sistema de control y registro de los gastos e ingresos y demás operaciones económicas que realiza la empresa.
-
--Balance: Diferencia entre los ingresos y gastos que refleja el resultado de una actividad económica.]]]></rem:description>
+<rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0019</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado el objeto [VAL-0001]  con 0 hijos y 1 cambios]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0006] Descripción del entorno de software actual)]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0019</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado el objeto [TYP-0001] FORTALEZA con 2 hijos y 6 cambios]]></rem:description>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Descripción del entorno software actual] -> [Descripción del entorno de software actual]]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:type>C</rem:type>
+<rem:owner>PRG-0006</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado el objeto [ASO-0001] ( ?, ? ) con 0 hijos y 1 cambios]]></rem:description>
+<rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>STK-0004</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>10</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [IsCustomer] actualizada [false] -> [true]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0026</rem:owner><rem:date>
+<rem:owner>SEC-0009</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([VAL-0001] fortaleza)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>10</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [TYP-0001] Fortalezas con 0 hijos y 1 cambios]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0008] Glosario de términos del dominio del problema)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>PRG-0009</rem:owner><rem:date>
+<rem:owner>PRG-0005</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
-<rem:day>10</rem:day>
+<rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Text] actualizada [] -> [[FOR - 001] : Gran formación y experiencia en el sector laboral. Una empresa con un largo recorrido tanto en Cádiz como en Sevilla.
-
-[FOR - 002] : Ofrece una gran cercanía con el cliente que le permite generar una relación de confianza con su asesor.
-
-[FOR - 003] : Fácil comunicación entre oficinas de la misma empresa debido a la relación familiar que une a los trabajadores.
-
-
-
-]]]></rem:description>
+<rem:description><![CDATA[Propiedad [Text] actualizada [Actualmente, las oficinas estan dotadas de equipos informáticos. Como se puede observar, también se usa mucho los documentos físicos.] -> [Actualmente, las oficinas estan dotadas de equipos informáticos preparados para ofimática. Como se puede observar, también se usa mucho los documentos físicos.]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>ACT-0001</rem:owner><rem:date>
+<rem:owner>SEC-0019</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
-<rem:day>10</rem:day>
+<rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Name] actualizada [Ejemplo de actor] -> [Finca]]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0027] Glosario de acrónimos y abreviaturas)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>STK-0001</rem:owner><rem:date>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
-<rem:day>10</rem:day>
+<rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Comments] actualizada [Contacto con 5as y experto (en todo)] -> [Contacto con 5as y encargado de describir las situacion actual
-]]]></rem:description>
+<rem:description><![CDATA[Intercambiados hijos nº1 ([OBJ-0006] Control de la contabilidad) y nº2 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
+<rem:owner>SEC-0012</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0009] Fortalezas de la situación actual)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
 <rem:owner>PRG-0010</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
-<rem:day>10</rem:day>
+<rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Text] actualizada [[DEB - 001] : Carece de página web.
-
-[DEB - 002] : Carece de un sistema de información que permita organizar historial de incidencias de las fincas que se gestionan.
-
-[DEB - 003] : Carece de un sistema de información que permita mantener un control de las reuniones/situación de los divorcios o herencias.
-
-[DEB - 004] : Carece de un sistema que alerte de las fechas de entrega de impuestos a Hacienda lo que puede resultar en presentaciones tardías de documentación con sus respectivas repercusiones económicas] -> [[DEB - 001] : Carece de página web lo que dificulta dar con la empresa con un método que no sea el boca a boca.
-
-[DEB - 002] : Carece de un sistema de información que permita organizar historial de incidencias de las fincas que se gestionan.
-
-[DEB - 003] : Carece de un sistema de información que permita mantener un control de las reuniones/situación de los divorcios o herencias.
-
-[DEB - 004] : Carece de un sistema que alerte de las fechas de entrega de impuestos a Hacienda lo que puede resultar en presentaciones tardías de documentación con sus respectivas repercusiones económicas]]]></rem:description>
+<rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>ACT-0001</rem:owner><rem:date>
+<rem:owner>SEC-0015</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
-<rem:day>10</rem:day>
+<rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Description] actualizada [PD] -> [a la finca que quiere ser administrada por 5as]]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0011] Descripción de actores de negocio actuales)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0023</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº1 ([ACT-0001] Ejemplo de actor)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Intercambiados hijos nº2 ([OBJ-0006] Control de la contabilidad) y nº1 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0015</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([ACT-0001] Ejemplo de actor)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0005</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Text] actualizada [Actualmente, las oficinas estan dotadas con equipos informáticos. Como se puede observar, también se usa mucho los documentos físicos.] -> [Actualmente, las oficinas estan dotadas de equipos informáticos. Como se puede observar, también se usa mucho los documentos físicos.]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0021</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([OBJ-0009] Ejemplo de objetivo)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>ORG-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Address] actualizada [Grupo San Matías, 5, LOCAL-16, Sevilla] -> [Grupo San Matías, 5, LOCAL-16, Sevilla.]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>OBJ-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº4 ([OBJ-0008] Sistema de notificaciones)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>PRG-0007</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0013</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0010] Debilidades de la situación actual)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0016</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0011] Descripción de actores de negocio actuales)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>OBJ-0009</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>C</rem:type>
@@ -2249,33 +2386,6 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:description><![CDATA[Clonado a partir de [ACT-0001] Ejemplo de actor del proyecto C:\Users\Oneis\Desktop\ProyectoIR\5as.rem]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [DEF-0001]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>ACT-0002</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Name] actualizada [Copia de Ejemplo de actor] -> [Ejemplo de actor]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0026</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([VAL-0001] fortaleza)]]></rem:description>
-</rem:change>
-<rem:change>
 <rem:type>U</rem:type>
 <rem:owner>SEC-0023</rem:owner><rem:date>
 <rem:year>2022</rem:year>
@@ -2283,6 +2393,42 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:day>9</rem:day>
 </rem:date>
 <rem:description><![CDATA[Añadido hijo nº1 ([ACT-0002] Copia de Ejemplo de actor)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [SOP-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [VAL-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0008</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [IsGlossaryItem] actualizada [false] -> [true]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [TYP-0002] ole con 0 hijos y 2 cambios]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>D</rem:type>
@@ -2307,33 +2453,9 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [SOP-0001]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>PRG-0008</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [IsGlossaryItem] actualizada [false] -> [true]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>PRG-0010</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
 <rem:day>10</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Text] actualizada [] -> [[DEB - 001] : Carece de página web.
-
-[DEB - 002] : Carece de un sistema de información que permita organizar historial de incidencias de las fincas que se gestionan.
-
-[DEB - 003] : Carece de un sistema de información que permita mantener un control de las reuniones/situación de los divorcios o herencias.
-
-[DEB - 004] : Carece de un sistema que alerte de las fechas de entrega de impuestos a Hacienda lo que puede resultar en presentaciones tardías de documentación con sus respectivas repercusiones económicas]]]></rem:description>
+<rem:description><![CDATA[Eliminado el objeto [TYP-0001] Fortalezas con 0 hijos y 1 cambios]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -2361,6 +2483,195 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 
 
 ]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [DEF-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [TYP-0001] FORTALEZA con 2 hijos y 6 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0009</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>10</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Text] actualizada [] -> [[FOR - 001] : Gran formación y experiencia en el sector laboral. Una empresa con un largo recorrido tanto en Cádiz como en Sevilla.
+
+[FOR - 002] : Ofrece una gran cercanía con el cliente que le permite generar una relación de confianza con su asesor.
+
+[FOR - 003] : Fácil comunicación entre oficinas de la misma empresa debido a la relación familiar que une a los trabajadores.
+
+
+
+]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>MET-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Results] actualizada [Como resultado de esta primera entrevista, hemos establecido el primer contacto con la empresas y sus trabajadores, nos han hablado de su forma de trabajar, los problemas actuales que tienen y de implementaciones que ayudarían a realizar el trabajo de una forma más cómoda.] -> [En esta primera reunión con Silvia Pérez López hemos establecido el primer contacto con la empresas y sus trabajadores, nos han hablado de su forma de trabajar, los problemas actuales que tienen y de implementaciones que ayudarían a realizar el trabajo de una forma más cómoda.]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [SOP-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [VAL-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0026</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([VAL-0001] fortaleza)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0010</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>10</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Text] actualizada [] -> [[DEB - 001] : Carece de página web.
+
+[DEB - 002] : Carece de un sistema de información que permita organizar historial de incidencias de las fincas que se gestionan.
+
+[DEB - 003] : Carece de un sistema de información que permita mantener un control de las reuniones/situación de los divorcios o herencias.
+
+[DEB - 004] : Carece de un sistema que alerte de las fechas de entrega de impuestos a Hacienda lo que puede resultar en presentaciones tardías de documentación con sus respectivas repercusiones económicas]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0010</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>10</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Text] actualizada [[DEB - 001] : Carece de página web.
+
+[DEB - 002] : Carece de un sistema de información que permita organizar historial de incidencias de las fincas que se gestionan.
+
+[DEB - 003] : Carece de un sistema de información que permita mantener un control de las reuniones/situación de los divorcios o herencias.
+
+[DEB - 004] : Carece de un sistema que alerte de las fechas de entrega de impuestos a Hacienda lo que puede resultar en presentaciones tardías de documentación con sus respectivas repercusiones económicas] -> [[DEB - 001] : Carece de página web lo que dificulta dar con la empresa con un método que no sea el boca a boca.
+
+[DEB - 002] : Carece de un sistema de información que permita organizar historial de incidencias de las fincas que se gestionan.
+
+[DEB - 003] : Carece de un sistema de información que permita mantener un control de las reuniones/situación de los divorcios o herencias.
+
+[DEB - 004] : Carece de un sistema que alerte de las fechas de entrega de impuestos a Hacienda lo que puede resultar en presentaciones tardías de documentación con sus respectivas repercusiones económicas]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0015</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([ACT-0002] Copia de Ejemplo de actor)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [ASO-0001] ( ?, ? ) con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0008</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [IsGlossaryItem] actualizada [true] -> [false]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>STK-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>10</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Comments] actualizada [Contacto con 5as y experto (en todo)] -> [Contacto con 5as y encargado de describir las situacion actual
+]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>ACT-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>10</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Ejemplo de actor] -> [Finca]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>ACT-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>10</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Description] actualizada [PD] -> [a la finca que quiere ser administrada por 5as]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>STK-0001</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>10</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [Contacto con 5as y experto (en todo)]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0026</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº1 ([VAL-0001] fortaleza)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>STK-0004</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>10</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [IsCustomer] actualizada [false] -> [true]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -2396,340 +2707,126 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
+<rem:owner>ACT-0002</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>9</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Copia de Ejemplo de actor] -> [Ejemplo de actor]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
 <rem:owner>PRG-0008</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>9</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [IsGlossaryItem] actualizada [true] -> [false]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [VAL-0001]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>MET-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Results] actualizada [Como resultado de esta primera entrevista, hemos establecido el primer contacto con la empresas y sus trabajadores, nos han hablado de su forma de trabajar, los problemas actuales que tienen y de implementaciones que ayudarían a realizar el trabajo de una forma más cómoda.] -> [En esta primera reunión con Silvia Pérez López hemos establecido el primer contacto con la empresas y sus trabajadores, nos han hablado de su forma de trabajar, los problemas actuales que tienen y de implementaciones que ayudarían a realizar el trabajo de una forma más cómoda.]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [SOP-0001]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [TYP-0002] ole con 0 hijos y 2 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0015</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([ACT-0002] Copia de Ejemplo de actor)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0016</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0011] Descripción de actores de negocio actuales)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0019</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Name] actualizada [Descripción del entorno software actual] -> [Descripción del entorno de software actual]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>PRG-0008</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
+<rem:description><![CDATA[Propiedad [Text] actualizada [-Contabilidad: Sistema de control y registro de los gastos e ingresos y demás operaciones económicas que realiza la empresa.
+
+-Balance:Diferencia entre los ingresos y gastos que refleja el resultado de una actividad económica.] -> [-Contabilidad: Sistema de control y registro de los gastos e ingresos y demás operaciones económicas que realiza la empresa.
+
+-Balance: Diferencia entre los ingresos y gastos que refleja el resultado de una actividad económica.]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
 <rem:owner>PRG-0006</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
-<rem:day>9</rem:day>
+<rem:day>11</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Name] actualizada [Descripción del entorno software actual] -> [Descripción del entorno de software actual]]]></rem:description>
+<rem:description><![CDATA[Propiedad [Text] actualizada [] -> [En cuanto al Software utilizan el entorno de windows 11 y  el paquete office, en especial excel y word.
+Además, utilizan tres programas de la empresa "Monitor", "contabilidad" para PYMES, "EOS" para la contabilidad de los autónomos y "laboral" para la llevanza de las nóminas de las empresas.
+]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>SEC-0009</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0008] Glosario de términos del dominio del problema)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>PRG-0011</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Name] actualizada [Descripción de actores de negocio actuales] -> [Descripción de procesos de negocio actuales]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0015</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0011] Descripción de actores de negocio actuales)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
 <rem:owner>PRG-0009</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
-<rem:day>9</rem:day>
+<rem:day>11</rem:day>
 </rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
+<rem:description><![CDATA[Propiedad [Text] actualizada [[FOR - 001] : Gran formación y experiencia en el sector laboral. Una empresa con un largo recorrido tanto en Cádiz como en Sevilla.
+
+[FOR - 002] : Ofrece una gran cercanía con el cliente que le permite generar una relación de confianza con su asesor.
+
+[FOR - 003] : Fácil comunicación entre oficinas de la misma empresa debido a la relación familiar que une a los trabajadores.
+
+[FOR - 004] : Sistema fiscal eficiente que permite una buena gestión y control de la parte fiscal a la que se dedica la empresa. 
+
+
+
+] -> [[FOR - 001] : Gran formación y experiencia en el sector laboral. Una empresa con un largo recorrido tanto en Cádiz como en Sevilla.
+
+[FOR - 002] : Ofrece una gran cercanía con el cliente que le permite generar una relación de confianza con su asesor.
+
+[FOR - 003] : Fácil comunicación entre oficinas de la misma empresa debido a la relación familiar que une a los trabajadores.
+
+[FOR - 004] : Sistema fiscal y laboral eficientes que permiten una buena gestión y control de la parte fiscal y laboral a la que se dedica 5as. 
+
+
+
+]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>SEC-0019</rem:owner><rem:date>
+<rem:owner>SEC-0015</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
-<rem:day>9</rem:day>
+<rem:day>10</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0006] Descripción del entorno de software actual)]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº2 ([ACT-0003] Gestor )]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>PRG-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Text] actualizada [Actualmente, las oficinas estan dotadas de equipos informáticos. Como se puede observar, también se usa mucho los documentos físicos.] -> [Actualmente, las oficinas estan dotadas de equipos informáticos preparados para ofimática. Como se puede observar, también se usa mucho los documentos físicos.]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>OBJ-0009</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0021</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([OBJ-0009] Ejemplo de objetivo)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Intercambiados hijos nº1 ([OBJ-0006] Control de la contabilidad) y nº2 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0019</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([SEC-0027] Glosario de acrónimos y abreviaturas)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>PRG-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Text] actualizada [] -> [Actualmente las oficinas cuentan con equipos informáticos ya que usaban Excel. Como se puede observar, también se usa mucho los documentos físicos.]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0019</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0027] Glosario de acrónimos y abreviaturas)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>PRG-0007</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0008</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0007] Introducción al dominio del problema)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0012</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0009] Fortalezas de la situación actual)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0013</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0010] Debilidades de la situación actual)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº4 ([OBJ-0008] Sistema de notificaciones)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
 <rem:owner>PRG-0010</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
-<rem:day>9</rem:day>
+<rem:day>11</rem:day>
 </rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
+<rem:description><![CDATA[Propiedad [Text] actualizada [[DEB - 001] : Carece de página web lo que dificulta dar con la empresa con un método que no sea el boca a boca. 
+
+[DEB - 002] : Carece de un sistema de información que permita organizar historial de incidencias de las fincas que se gestionan. Esto provoca dificultades a la hora de recabar datos de incidencias que ocurrieron en el pasado.
+
+[DEB - 003] : Carece de un sistema de información que permita mantener un control de las reuniones/situación de los divorcios o herencias. Lo que provoca dificultades para mantener el control de la situación en la que se encuentra ese divorcio o herencia.
+
+[DEB - 004] : Carece de un sistema que alerte de las fechas de entrega de impuestos a Hacienda lo que puede resultar en presentaciones tardías de documentación con sus respectivas repercusiones económicas] -> [[DEB - 001] : Carece de página web lo que dificulta dar con la empresa con un método que no sea el boca a boca. 
+
+[DEB - 002] : Carece de un sistema de información que permita organizar historial de incidencias de las fincas que se gestionan. Esto provoca dificultades a la hora de recabar datos de incidencias que ocurrieron en el pasado.
+
+[DEB - 003] : Carece de un sistema de información que permita mantener un control de las reuniones/situación de los divorcios o herencias. Lo que provoca dificultades para mantener el control de la situación en la que se encuentra ese divorcio o herencia.
+
+[DEB - 004] : Carece de un sistema que alerte de las fechas de entrega de impuestos a Hacienda lo que puede resultar en presentaciones tardías de documentación con sus respectivas repercusiones económicas.]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>ORG-0001</rem:owner><rem:date>
+<rem:owner>ACT-0001</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
-<rem:day>9</rem:day>
+<rem:day>10</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Address] actualizada [Grupo San Matías, 5, LOCAL-16, Sevilla] -> [Grupo San Matías, 5, LOCAL-16, Sevilla.]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>PRG-0006</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>PRG-0011</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0023</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([ACT-0001] Ejemplo de actor)]]></rem:description>
+<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [Para ampliar información acerca de lo que queremos decir cuando hablamos de finca consultar el glosario de términos.]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
 <rem:owner>SEC-0015</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
-<rem:day>9</rem:day>
+<rem:day>10</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado hijo nº1 ([PRG-0011] Descripción de actores de negocio actuales)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>PRG-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Text] actualizada [Actualmente, las oficinas estan dotadas con equipos informáticos. Como se puede observar, también se usa mucho los documentos físicos.] -> [Actualmente, las oficinas estan dotadas de equipos informáticos. Como se puede observar, también se usa mucho los documentos físicos.]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0015</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([ACT-0001] Ejemplo de actor)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>PRG-0005</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Text] actualizada [Actualmente las oficinas cuentan con equipos informáticos ya que usaban Excel. Como se puede observar, también se usa mucho los documentos físicos.] -> [Actualmente, las oficinas estan dotadas con equipos informáticos. Como se puede observar, también se usa mucho los documentos físicos.]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>OBJ-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>9</rem:day>
-</rem:date>
-<rem:description><![CDATA[Intercambiados hijos nº2 ([OBJ-0006] Control de la contabilidad) y nº1 ([OBJ-0005] Gestión de fincas, herencias y divorcios)]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº4 ([ACT-0005] Familia)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>C</rem:type>
 <rem:owner>ACT-0003</rem:owner><rem:date>
+<rem:year>2022</rem:year>
+<rem:month>10</rem:month>
+<rem:day>10</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>ACT-0004</rem:owner><rem:date>
 <rem:year>2022</rem:year>
 <rem:month>10</rem:month>
 <rem:day>10</rem:day>
@@ -2753,41 +2850,5 @@ Se pretende diseñar un nuevo sistema de información que cumpla los siguientes pu
 <rem:day>10</rem:day>
 </rem:date>
 <rem:description><![CDATA[Añadido hijo nº3 ([ACT-0004] Matrimonio )]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>ACT-0004</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>10</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0015</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>10</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([ACT-0003] Gestor )]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0015</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>10</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº4 ([ACT-0005] Familia)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>ACT-0001</rem:owner><rem:date>
-<rem:year>2022</rem:year>
-<rem:month>10</rem:month>
-<rem:day>10</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [Para ampliar información acerca de lo que queremos decir cuando hablamos de finca consultar el glosario de términos.]]]></rem:description>
 </rem:change>
 </rem:log>
